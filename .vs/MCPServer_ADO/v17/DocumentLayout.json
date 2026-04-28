@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\maheshapps\\MCPServer_ADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado\\appinsights.api\\steps.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\steps.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado\\appinsights.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "steps.md",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO\\AppInsights.Api\\steps.md",
+              "RelativeDocumentMoniker": "AppInsights.Api\\steps.md",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO\\AppInsights.Api\\steps.md",
+              "RelativeToolTip": "AppInsights.Api\\steps.md",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-27T11:26:26.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO\\AppInsights.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AppInsights.Api\\appsettings.json",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO\\AppInsights.Api\\appsettings.json",
+              "RelativeToolTip": "AppInsights.Api\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T09:29:21.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

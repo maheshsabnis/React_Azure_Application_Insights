@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\maheshapps\\MCPServer_ADO_Article\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\models\\metricmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\models\\metricmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\models\\kqlmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\models\\kqlmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\models\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\services\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\services\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\configuration\\azuresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\configuration\\azuresettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\services\\logsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\services\\logsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|d:\\maheshapps\\mcpserver_ado_article\\appinsights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7B6B59-E814-4DC9-8A47-FD7BAA667244}|AppInsights.Api\\AppInsights.Api.csproj|solutionrelative:appinsights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetricModels.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Models\\MetricModels.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Models\\MetricModels.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Models\\MetricModels.cs",
+              "RelativeToolTip": "AppInsights.Api\\Models\\MetricModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:09:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KqlModels.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Models\\KqlModels.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Models\\KqlModels.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Models\\KqlModels.cs",
+              "RelativeToolTip": "AppInsights.Api\\Models\\KqlModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:09:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Models\\LogEntry.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Models\\LogEntry.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Models\\LogEntry.cs",
+              "RelativeToolTip": "AppInsights.Api\\Models\\LogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:09:03.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetricsService.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Services\\MetricsService.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Services\\MetricsService.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Services\\MetricsService.cs",
+              "RelativeToolTip": "AppInsights.Api\\Services\\MetricsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:08:50.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureSettings.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Configuration\\AzureSettings.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Configuration\\AzureSettings.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Configuration\\AzureSettings.cs",
+              "RelativeToolTip": "AppInsights.Api\\Configuration\\AzureSettings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:08:45.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogsService.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Services\\LogsService.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Services\\LogsService.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Services\\LogsService.cs",
+              "RelativeToolTip": "AppInsights.Api\\Services\\LogsService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:08:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AppInsights.Api\\Program.cs",
+              "ToolTip": "D:\\maheshapps\\MCPServer_ADO_Article\\AppInsights.Api\\Program.cs",
+              "RelativeToolTip": "AppInsights.Api\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T07:01:15.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
